@@ -1,0 +1,25 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="120" y1="100" x2="680" y2="540" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFEBDD"/>
+      <stop offset="1" stop-color="#F1C3A2"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="200" y1="180" x2="620" y2="460" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B85C38"/>
+      <stop offset="1" stop-color="#8E3F25"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" rx="48" fill="url(#g1)"/>
+  <circle cx="620" cy="120" r="70" fill="#FFF7F0" fill-opacity="0.8"/>
+  <circle cx="170" cy="140" r="48" fill="#FFF7F0" fill-opacity="0.5"/>
+  <path d="M210 390C210 330.353 258.353 282 318 282H482C541.647 282 590 330.353 590 390V410H210V390Z" fill="#FFF8F3"/>
+  <path d="M240 290C240 260.235 264.235 236 294 236H506C535.765 236 560 260.235 560 290V295H240V290Z" fill="url(#g2)"/>
+  <path d="M225 410H575C575 444.242 547.242 472 513 472H287C252.758 472 225 444.242 225 410Z" fill="#FFF7F0"/>
+  <rect x="300" y="180" width="200" height="28" rx="14" fill="#8E3F25"/>
+  <rect x="250" y="446" width="300" height="22" rx="11" fill="#E9B58D"/>
+  <circle cx="330" cy="250" r="16" fill="#FFE1C8"/>
+  <circle cx="390" cy="228" r="12" fill="#FFE1C8"/>
+  <circle cx="450" cy="246" r="15" fill="#FFE1C8"/>
+  <text x="400" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#8E3F25">Dessert</text>
+  <text x="400" y="392" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#8E3F25">Placeholder Image</text>
+</svg>
